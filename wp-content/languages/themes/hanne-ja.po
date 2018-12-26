@@ -1,0 +1,829 @@
+# Translation of Themes - Hanne in Japanese
+# This file is distributed under the same license as the Themes - Hanne package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-09-17 05:52:05+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Themes - Hanne\n"
+
+#. Theme Name of the plugin/theme
+msgid "Hanne"
+msgstr "Hanne"
+
+#: framework/customizer/front-pagebuilder.php:190
+msgid "Button Name"
+msgstr "ボタン名"
+
+#: framework/customizer/front-pagebuilder.php:138
+msgid "Background Image"
+msgstr "背景画像"
+
+#: framework/customizer/front-pagebuilder.php:120
+msgid "Enable HERO"
+msgstr "ヒーローを有効にする"
+
+#: framework/customizer/front-pagebuilder.php:106
+msgid "HERO (Above Content)"
+msgstr "ヒーロー (コンテンツの上)"
+
+#: framework/customizer/front-pagebuilder.php:91
+msgid "Disable Comments Box"
+msgstr "コメントボックスを無効にする"
+
+#: framework/customizer/front-pagebuilder.php:76
+msgid "Default: Enabled. Check to Disable Page Title."
+msgstr "デフォルト: 有効。ページタイトルを無効にする場合にチェックします。"
+
+#: framework/customizer/front-pagebuilder.php:75
+msgid "Disable Page Title"
+msgstr "ページタイトルを無効にする"
+
+#: framework/customizer/front-pagebuilder.php:31
+msgid "Note"
+msgstr "注"
+
+#: framework/customizer/front-pagebuilder.php:14
+msgid "Basic Settings"
+msgstr "基本設定"
+
+#: framework/customizer/front-pagebuilder.php:6
+msgid "Front Page Builder"
+msgstr "Front Page Builder"
+
+#: framework/customizer/_googlefonts.php:85
+#: framework/customizer/front-pagebuilder.php:61
+msgid "Content Font Size"
+msgstr "コンテンツのフォントサイズ"
+
+#: search.php:12
+msgid "Search Results for: %s"
+msgstr "「%s」の検索結果"
+
+#: index.php:18
+msgid "From the Blog"
+msgstr "ブログから"
+
+#: inc/template-tags.php:159
+msgid "Your comment is awaiting moderation."
+msgstr "あなたのコメントは承認待ちです。"
+
+#: inc/template-tags.php:138
+msgid "Pingback:"
+msgstr "ピンバック: "
+
+#: inc/template-tags.php:91 inc/template-tags.php:138 inc/template-tags.php:174
+msgid "Edit"
+msgstr "編集"
+
+#: inc/template-tags.php:87
+msgid "% Comments"
+msgstr "%件のコメント"
+
+#: inc/template-tags.php:87
+msgid "1 Comment"
+msgstr "1件のコメント"
+
+#: inc/template-tags.php:87
+msgid "Leave a comment"
+msgstr "コメントする"
+
+#: inc/template-tags.php:81
+msgid "Tagged %1$s"
+msgstr "タグ: %1$s"
+
+#: inc/template-tags.php:75
+msgid "Posted in %1$s"
+msgstr "カテゴリー: %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:73 inc/template-tags.php:79
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:33
+msgctxt "post author"
+msgid "by %s"
+msgstr "投稿者: %s"
+
+#: inc/template-tags.php:28
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "投稿日: %s"
+
+#: framework/customizer/misc-scripts.php:22
+msgid "Free Email Support"
+msgstr "無料メールサポート"
+
+#: framework/customizer/misc-scripts.php:7
+msgid "Hanne - Help & Support"
+msgstr "Hanne - ヘルプ & サポート"
+
+#: framework/customizer/social-icons.php:47
+msgid " Url"
+msgstr "URL"
+
+#: framework/customizer/social-icons.php:34
+#: framework/customizer/social-icons.php:47
+msgid "Icon "
+msgstr "アイコン"
+
+#: framework/customizer/social-icons.php:19
+msgid "Flickr"
+msgstr "Flickr"
+
+#: framework/customizer/social-icons.php:18
+msgid "Youtube"
+msgstr "Youtube"
+
+#: framework/customizer/social-icons.php:17
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: framework/customizer/social-icons.php:16
+msgid "Vine"
+msgstr "Vine"
+
+#: framework/customizer/social-icons.php:15
+msgid "RSS Feeds"
+msgstr "RSS フィード"
+
+#: framework/customizer/social-icons.php:14
+msgid "Instagram"
+msgstr "Instagram"
+
+#: framework/customizer/social-icons.php:13
+msgid "Google Plus"
+msgstr "Google+"
+
+#: framework/customizer/social-icons.php:12
+msgid "Twitter"
+msgstr "Twitter"
+
+#: framework/customizer/social-icons.php:11
+msgid "Facebook"
+msgstr "Facebook"
+
+#: framework/customizer/social-icons.php:10
+msgid "-"
+msgstr "-"
+
+#: framework/customizer/social-icons.php:5
+msgid "Social Icons"
+msgstr "ソーシャルアイコン"
+
+#: framework/customizer/_googlefonts.php:48
+msgid "Body"
+msgstr "Body"
+
+#: framework/customizer/_googlefonts.php:32
+#: framework/customizer/front-pagebuilder.php:155
+msgid "Title"
+msgstr "タイトル"
+
+#: framework/customizer/_googlefonts.php:7
+msgid "Google Web Fonts"
+msgstr "Google Web フォント"
+
+#: framework/customizer/_layouts.php:144
+msgid "Enter your Own Copyright Text."
+msgstr "独自の著作権テキストを追加。"
+
+#: framework/customizer/_layouts.php:143
+msgid "Custom Footer Text"
+msgstr "カスタムフッターテキスト"
+
+#: framework/customizer/_layouts.php:114
+msgid "Min: 25%, Default: 33%, Max: 40%"
+msgstr "最小: 25%、デフォルト: 33%、最大: 40%"
+
+#: framework/customizer/_layouts.php:113
+msgid "Sidebar Width"
+msgstr "サイドバーの幅"
+
+#: framework/customizer/_layouts.php:95
+msgid "Disable Sidebar on Front Page."
+msgstr "フロントページにてサイドバーを非表示にする"
+
+#: framework/customizer/_layouts.php:80
+msgid "Disable Sidebar on Home/Blog."
+msgstr "ホームとブログにてサイドバーを非表示にする"
+
+#: framework/customizer/_layouts.php:66
+msgid "Disable Sidebar Everywhere."
+msgstr "サイト全体でサイドバーを無効にする。"
+
+#: framework/customizer/_layouts.php:52
+msgid "Sidebar Layout"
+msgstr "サイドバーレイアウト"
+
+#: framework/customizer/_layouts.php:43
+msgid "Grid - 3 Column"
+msgstr "グリッド - 3カラム"
+
+#: framework/customizer/_layouts.php:42
+msgid "Grid - 2 Column"
+msgstr "グリッド - 2カラム"
+
+#: framework/customizer/_layouts.php:41
+msgid "Basic Blog Layout"
+msgstr "基本ブログレイアウト"
+
+#: framework/customizer/_layouts.php:40
+msgid "Hanne Theme Layout"
+msgstr "Hanne テーマレイアウト"
+
+#: framework/customizer/_layouts.php:35
+msgid "Select Layout"
+msgstr "レイアウトを選択"
+
+#: framework/customizer/_layouts.php:14
+msgid "Blog Layout"
+msgstr "ブログレイアウト"
+
+#: framework/customizer/_layouts.php:8
+msgid "Design & Layout"
+msgstr "デザイン & レイアウト"
+
+#: framework/customizer/_featured-posts.php:38
+msgid "Category For Featured Posts"
+msgstr "おすすめ投稿のカテゴリー"
+
+#: framework/customizer/_featured-posts.php:21
+msgid "Enable"
+msgstr "有効化"
+
+#: framework/customizer/_featured-posts.php:8
+msgid "Featured Posts"
+msgstr "おすすめ投稿"
+
+#: framework/customizer/header.php:62
+msgid "Repeat Header Image"
+msgstr "ヘッダー画像の繰り返し"
+
+#: framework/customizer/header.php:51
+msgid "Right"
+msgstr "右"
+
+#: framework/customizer/header.php:50
+msgid "Left"
+msgstr "左"
+
+#: framework/customizer/header.php:49
+msgid "Center"
+msgstr "中央"
+
+#: framework/customizer/header.php:44
+msgid "Header Image Alignment"
+msgstr "ヘッダー画像の配置"
+
+#: framework/customizer/header.php:24
+msgid "Contain"
+msgstr "画像全体を表示"
+
+#: framework/customizer/header.php:19
+msgid "Header Image Arrangement"
+msgstr "ヘッダー画像の配置"
+
+#: framework/customizer/skins.php:48
+msgid "Site Tagline Color"
+msgstr "サイトキャッチフレーズの色"
+
+#: framework/customizer/skins.php:39
+msgid "Site Title Color"
+msgstr "サイトタイトル色"
+
+#: framework/customizer/skins.php:17
+msgid "Resize & Adjust Logo"
+msgstr "サイズ変更・ ロゴを調整"
+
+#: framework/customizer/skins.php:5
+msgid "Title, Tagline & Logo"
+msgstr "タイトル、タグライン、ロゴ"
+
+#: header.php:14
+msgid "Skip to content"
+msgstr "コンテンツへスキップ"
+
+#: framework/admin_modules/register_widgets.php:37
+msgid "Footer 3"
+msgstr "フッター 3"
+
+#: framework/admin_modules/register_widgets.php:28
+msgid "Footer 2"
+msgstr "フッター 2"
+
+#: framework/admin_modules/register_widgets.php:19
+msgid "Footer 1"
+msgstr "フッター 1"
+
+#: framework/admin_modules/register_widgets.php:9
+msgid "Sidebar"
+msgstr "サイドバー"
+
+#: framework/admin_modules/theme_setup.php:55
+msgid "Primary Menu"
+msgstr "メインメニュー"
+
+#: framework/widgets/recent-posts.php:98
+msgid "No. of Posts:"
+msgstr "投稿番号: "
+
+#: framework/widgets/recent-posts.php:95
+msgid "Title:"
+msgstr "タイトル:"
+
+#: framework/widgets/recent-posts.php:91
+msgid "5"
+msgstr "5"
+
+#: framework/widgets/recent-posts.php:85
+msgid "Latest Articles"
+msgstr "最新の記事"
+
+#: framework/widgets/recent-posts.php:68
+msgid "Oops, there are no posts."
+msgstr "投稿がありません。"
+
+#: framework/widgets/recent-posts.php:60
+msgid "M j, Y"
+msgstr "Y年n月j日"
+
+#: framework/widgets/recent-posts.php:23
+msgid "Latest Posts"
+msgstr "最新記事"
+
+#: framework/widgets/recent-posts.php:14
+msgid "Display your recent posts, with a Thumbnail."
+msgstr "最新の投稿をサムネイル付きで表示。"
+
+#: framework/widgets/recent-posts.php:13
+msgid "Hanne Recent Posts with Thumbnails"
+msgstr "Hanne サムネイル付き最新記事"
+
+#: framework/theme-functions.php:93
+msgid "&mdash; Select &mdash;"
+msgstr "&mdash; 選択 &mdash;"
+
+#: framework/tgmpa.php:47
+msgid "RT Slider for Hanne Theme"
+msgstr "RT Slider for Hanne Theme"
+
+#: framework/layouts/content-grid.php:22
+#: framework/layouts/content-grid_2_column.php:22
+#: framework/layouts/content-grid_3_column.php:22
+msgid "Read More"
+msgstr "もっと見る"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: framework/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "プラグインをインストール中 %1$s (%2$d/%3$d)"
+
+#: framework/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "すべてのインストールが完了しました。"
+
+#. translators: 1: plugin name.
+#: framework/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s を正常にインストールしました。"
+
+#: framework/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "更新プロセスを開始しています。サーバーによっては少し時間がかかるかもしれません。しばらくお待ちください。"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: framework/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "プラグインをインストール、有効化中 %1$s (%2$d/%3$d)"
+
+#: framework/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "すべてのインストールと有効化が完了しました。"
+
+#: framework/class-tgm-plugin-activation.php:3509
+#: framework/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "詳細を非表示"
+
+#: framework/class-tgm-plugin-activation.php:3509
+#: framework/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "詳細を表示"
+
+#. translators: 1: plugin name.
+#: framework/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s を正常にインストールし、有効化しました。"
+
+#: framework/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "インストールと有効化プロセスを開始しています。サーバーによっては少し時間がかかるかもしれません。しばらくお待ちください。"
+
+#. translators: 1: plugin name.
+#: framework/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "%1$s のインストールに失敗しました。"
+
+#. translators: 1: plugin name, 2: error message.
+#: framework/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "<strong>%2$s</strong>%1$s のインストール中にエラーが発生しました。"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: framework/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "プラグインの更新中 %1$s (%2$d/%3$d)"
+
+#: framework/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "プラグインの有効化に失敗しました。"
+
+#: framework/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "現時点で有効化できるプラグインはありません。"
+
+#: framework/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "有効化するプラグインが選択されていません。何も実行しませんでした。"
+
+#: framework/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "現在更新できるプラグインはありません。"
+
+#: framework/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "現時点でインストールできるプラグインはありません。"
+
+#: framework/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "更新するプラグインが選択されていません。何も実行しませんでした。"
+
+#: framework/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "インストールするプラグインが選択されていません。何も実行しませんでした。"
+
+#: framework/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "有効化"
+
+#: framework/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "更新"
+
+#: framework/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "インストール"
+
+#: framework/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "プラグイン作者からの更新メッセージ:"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: framework/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "%2$s を有効化"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: framework/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "%2$s を更新"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: framework/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "%2$s をインストール"
+
+#: framework/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "状態"
+
+#: framework/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "バージョン"
+
+#: framework/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "タイプ"
+
+#: framework/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "ソース"
+
+#: framework/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "プラグイン"
+
+#: framework/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "インストール・更新・有効化可能なプラグインがありません。"
+
+#: framework/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "利用可能なバージョン:"
+
+#: framework/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "最低要求バージョン: "
+
+#: framework/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "インストールしたバージョン: "
+
+#: framework/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "不明"
+
+#. translators: 1: number of plugins.
+#: framework/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "使用中 <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: framework/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "利用可能な更新 <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: framework/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "未インストール <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: framework/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "すべて <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: framework/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s、%2$s"
+
+#: framework/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "更新が推奨されています"
+
+#: framework/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "更新が必要です"
+
+#: framework/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "必要な更新が利用できません"
+
+#: framework/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "有効"
+
+#: framework/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "停止中"
+
+#: framework/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "未インストール"
+
+#: framework/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "プリパッケージ"
+
+#: framework/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "外部ソース"
+
+#: framework/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "WordPress 公式ディレクトリ"
+
+#: framework/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "推奨"
+
+#: framework/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "必須"
+
+#. translators: %s: version number
+#: framework/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: framework/class-tgm-plugin-activation.php:1121
+#: framework/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "と"
+
+#: framework/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "リモートプラグインパッケージは複数のファイルで構成されていますが、ファイルは1つのフォルダー内にパッケージされていません。"
+
+#: framework/class-tgm-plugin-activation.php:934
+#: framework/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "プラグイン開発者に連絡し、WordPress のガイドラインに沿ったプラグインのパッケージ化を依頼してください。"
+
+#: framework/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "リモートプラグインパッケージには、指定されたスラッグのフォルダーがないため、名前の変更ができませんでした。"
+
+#: framework/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "更新が必要です"
+
+#: framework/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "使用中のテーマとの互換性を保つため、このプラグインを更新する必要があります。"
+
+#: framework/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "ヘルプが必要な場合はこのサイトの管理者にお問い合わせください。"
+
+#: framework/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "インストール・更新・有効化可能な必須・推奨プラグインがあります。"
+
+#: framework/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "無視する"
+
+#. translators: 1: dashboard link.
+#: framework/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "すべてのプラグインを正常にインストールし、有効化しました。 %1$s"
+
+#. translators: 1: plugin name.
+#: framework/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "プラグインを有効化できませんでした。このテーマには上位バージョンの %s が必要です。プラグインを更新してください。"
+
+#. translators: 1: plugin name.
+#: framework/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "操作を実行しませんでした。プラグイン %1$s はすでに有効です。"
+
+#: framework/class-tgm-plugin-activation.php:388
+#: framework/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgstr "以下のプラグインを有効化しました:"
+
+#: framework/class-tgm-plugin-activation.php:387
+#: framework/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "プラグインを有効化しました。"
+
+#: framework/class-tgm-plugin-activation.php:386
+#: framework/class-tgm-plugin-activation.php:827
+#: framework/class-tgm-plugin-activation.php:2533
+#: framework/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "ダッシュボードに戻る"
+
+#: framework/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "必須プラグインのインストール画面に戻る"
+
+#: framework/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "プラグインの有効化を開始"
+
+#: framework/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "プラグインの更新を開始"
+
+#. translators: 1: plugin name(s).
+#: framework/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "プラグインのインストールを開始"
+
+#: framework/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "プラグイン API で問題が発生しました。"
+
+#. translators: %s: plugin name.
+#: framework/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "プラグインの更新:  %s"
+
+#. translators: %s: plugin name.
+#: framework/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "プラグインをインストール中: %s"
+
+#: framework/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "プラグインのインストール"
+
+#: framework/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "必要なプラグインのインストール"
+
+#: footer.php:19
+msgid ". All Rights Reserved. "
+msgstr ". All Rights Reserved. "
+
+#: footer.php:19
+msgid "Y"
+msgstr "Y"
+
+#: footer.php:17
+msgid "Theme Designed by %1$s."
+msgstr "Theme Designed by %1$s."
+
+#. translators: %s: Name of current post
+#: modules/content/content.php:22
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%s の続きを読む<span class=\"meta-nav\">&rarr;</span>"
+
+#: modules/content/content-page.php:18 modules/content/content-single.php:28
+#: modules/content/content.php:29
+msgid "Pages:"
+msgstr "ページ: "
+
+#: modules/content/content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "お探しのコンテンツを見つけられませんでした。検索をお試しください。"
+
+#: modules/content/content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "検索キーワードに一致するものが見つかりませんでした。 別のキーワードで試してみてください。"
+
+#: modules/content/content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "最初の投稿を公開する準備はできましたか ? <a href=\"%1$s\">ここから始めましょう</a>。"
+
+#: modules/content/content-none.php:13
+msgid "Nothing Found"
+msgstr "見つかりません"
+
+#: comments.php:78
+msgid "Comments are closed."
+msgstr "コメントは受け付けていません。"
+
+#: comments.php:50 comments.php:68
+msgid "Newer Comments &rarr;"
+msgstr "新しいコメント &rarr;"
+
+#: comments.php:49 comments.php:67
+msgid "&larr; Older Comments"
+msgstr "&larr; 過去のコメント"
+
+#: comments.php:48 comments.php:66
+msgid "Comment navigation"
+msgstr "コメントナビゲーション"
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:38
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "&ldquo;%2$s&rdquo; に%1$s件のコメント"
+
+#. translators: 1: title.
+#: comments.php:32
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "%1$sへ1件のコメント"
+
+#. translators: %1$s: smiley
+#: 404.php:44
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "月別アーカイブを探してみてください %1$s"
+
+#: 404.php:27
+msgid "Most Used Categories"
+msgstr "よく使われているカテゴリー"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "何も見つかりませんでした。以下のリンクまたは検索をお試しください。"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "このページは見つかりません。"
+
+#. Author URI of the plugin/theme
+msgid "http://inkhive.com"
+msgstr "http://inkhive.com"
+
+#. Author of the plugin/theme
+msgid "InkHive"
+msgstr "InkHive"
+
+#. Theme URI of the plugin/theme
+msgid "https://inkhive.com/product/hanne/"
+msgstr "https://inkhive.com/product/hanne/"
